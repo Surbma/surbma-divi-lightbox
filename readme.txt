@@ -3,8 +3,8 @@ Contributors: Surbma, thefiddler
 Donate link: https://surbma.com/donate/
 Tags: divi, elegant themes, elegantthemes, lightbox
 Requires at least: 3.0
-Tested up to: 4.7
-Stable tag: 1.0.2
+Tested up to: 4.8
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,9 +12,23 @@ Adds Divi's native lightbox effect to images.
 
 == Description ==
 
-This plugin adds the Divi Lightbox effect to all images in the content area, that is linked to a media file. It means clicking on the image will open it in a lightbox. This is a very lightweight plugin, almost no impact on pageload.
+Do you use Divi? Do you wish you could use the same lightbox for images that are NOT inserted using the Divi (or Visual) Builder?
 
-The original idea came from Tevya, who also financed this project.
+Then you've come to the right plugin. Simply enable this plugin and any time you link to an image in a page or post using the default WordPress post editor, the link will now open in the Divi lightbox!
+
+No need to load an entirely separate or shadowbox plugin, just use the one your Divi-enabled site is already loading for Divi Builder-controlled content.
+
+The idea for this plugin and payment for it's creation by [Fiddler Online websites](https://fiddler.online/).
+
+**You have to buy the Divi Theme to use this plugin:**
+
+- [Divi by Elegant Themes](http://surbma.com/go/elegantthemes/) (affiliate link)
+
+**My plugins for Divi theme:**
+
+- [Surbma - Divi Extras](https://wordpress.org/plugins/surbma-divi-extras/)
+- [Surbma - Divi & Gravity Forms](https://wordpress.org/plugins/surbma-divi-gravity-forms/)
+- [Surbma - Divi Project Shortcodes](https://wordpress.org/plugins/surbma-divi-project-shortcodes/)
 
 **Do you want to contribute or help improving this plugin?**
 
@@ -43,6 +57,12 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.0.3 =
+
+- Minor change in the description.
+- My other Divi plugins are added to the description: Divi Extras, Divi & Gravity Forms, Divi Project Shortcodes.
+- Tested with WordPress 4.8 version.
 
 = 1.0.2 =
 
