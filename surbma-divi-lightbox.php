@@ -5,10 +5,10 @@ Plugin Name: Surbma - Divi Lightbox
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Adds Divi's native lightbox effect to images.
 
-Version: 1.0.3
+Version: 1.1
 
 Author: Surbma
-Author URI: http://surbma.com/
+Author URI: https://surbma.com/
 
 License: GPLv2
 

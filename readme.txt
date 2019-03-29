@@ -1,10 +1,11 @@
 === Surbma - Divi Lightbox ===
 Contributors: Surbma, thefiddler
 Donate link: https://surbma.com/donate/
-Tags: divi, elegant themes, elegantthemes, lightbox
+Tags: divi, lightbox, elegant themes, elegantthemes
 Requires at least: 3.0
-Tested up to: 4.8
-Stable tag: 1.0.3
+Tested up to: 5.1
+Stable tag: 1.1
+Requires PHP: 5.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -18,11 +19,11 @@ Then you've come to the right plugin. Simply enable this plugin and any time you
 
 No need to load an entirely separate or shadowbox plugin, just use the one your Divi-enabled site is already loading for Divi Builder-controlled content.
 
-The idea for this plugin and payment for it's creation by [Fiddler Online websites](https://fiddler.online/).
+>The idea for this plugin and payment for it's creation by [WordXpress - WP Maintenance & Support](https://wordx.press/).
 
 **You have to buy the Divi Theme to use this plugin:**
 
-- [Divi by Elegant Themes](http://surbma.com/go/elegantthemes/) (affiliate link)
+- [Divi by Elegant Themes](https://surbma.com/go/elegantthemes/) (affiliate link)
 
 **My plugins for Divi theme:**
 
@@ -57,6 +58,13 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.1 =
+
+- Tested with WordPress 5.1 version.
+- Added minimum PHP version requirement.
+- Minor changes in desccription.
+- Using simple versioning.
 
 = 1.0.3 =
 
