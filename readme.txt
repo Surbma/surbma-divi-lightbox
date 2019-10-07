@@ -2,9 +2,9 @@
 Contributors: Surbma, thefiddler
 Donate link: https://surbma.com/donate/
 Tags: divi, lightbox, elegant themes, elegantthemes
-Requires at least: 3.0
-Tested up to: 5.1
-Stable tag: 1.1
+Requires at least: 5.0
+Tested up to: 5.3
+Stable tag: 1.2
 Requires PHP: 5.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -58,6 +58,18 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 1.2 =
+
+Release date: 2019-10-07
+
+FIXES
+
+- Check if page is using Divi Page Builder. Fixes a conflict with the Gallery module.
+
+OTHER
+
+- Tested with WordPress 5.3 version.
 
 = 1.1 =
 
