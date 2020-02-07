@@ -1,11 +1,11 @@
-=== Surbma - Divi Lightbox ===
-Contributors: Surbma, thefiddler
+=== Surbma | Divi Lightbox ===
+Contributors: Surbma, CherryPickStudios, thefiddler
 Donate link: https://surbma.com/donate/
 Tags: divi, lightbox, elegant themes, elegantthemes
-Requires at least: 5.0
+Requires at least: 5.1
 Tested up to: 5.3
 Stable tag: 1.2
-Requires PHP: 5.6
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,9 +27,11 @@ No need to load an entirely separate or shadowbox plugin, just use the one your 
 
 **My plugins for Divi theme:**
 
-- [Surbma - Divi Extras](https://wordpress.org/plugins/surbma-divi-extras/)
-- [Surbma - Divi & Gravity Forms](https://wordpress.org/plugins/surbma-divi-gravity-forms/)
-- [Surbma - Divi Project Shortcodes](https://wordpress.org/plugins/surbma-divi-project-shortcodes/)
+- [Surbma | Divi & Gravity Forms](https://wordpress.org/plugins/surbma-divi-gravity-forms/)
+- [Surbma | Divi Extras](https://wordpress.org/plugins/surbma-divi-extras/)
+- [Surbma | Divi Lightbox](https://wordpress.org/plugins/surbma-divi-lightbox/)
+- [Surbma | Divi Project Shortcodes](https://wordpress.org/plugins/surbma-divi-project-shortcodes/)
+- [Surbma | Divi Remove Project CPT](https://wordpress.org/plugins/surbma-divi-remove-project-cpt/)
 
 **Do you want to contribute or help improving this plugin?**
 
@@ -48,7 +50,7 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 == Installation ==
 
 1. Upload `surbma-divi-lightbox` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Divi Lightbox plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | Divi Lightbox plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -58,6 +60,13 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2020-01-08
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 1.2 =
 
