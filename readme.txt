@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: divi, lightbox, elegant themes, elegantthemes
 Requires at least: 5.1
 Tested up to: 5.3
-Stable tag: 1.2
+Stable tag: 2.1
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
