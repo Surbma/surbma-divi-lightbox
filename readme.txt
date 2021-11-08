@@ -3,7 +3,7 @@ Contributors: Surbma, CherryPickStudios, thefiddler
 Donate link: https://surbma.com/donate/
 Tags: divi, lightbox, elegant themes, elegantthemes
 Requires at least: 5.1
-Tested up to: 5.3
+Tested up to: 5.8
 Stable tag: 2.1
 Requires PHP: 7.0
 License: GPLv2
