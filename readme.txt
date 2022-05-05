@@ -4,22 +4,22 @@ Donate link: https://surbma.com/donate/
 Tags: divi, lightbox, elegant themes, elegantthemes
 Requires at least: 5.1
 Tested up to: 5.9
-Stable tag: 3.0
+Stable tag: 3.1
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds Divi's native lightbox effect to images.
+Adds Divi's native lightbox effect to images (jpeg, jpg, gif, png, webp).
 
 == Description ==
+
+>The plugin supports all image formats (jpeg, jpg, gif, png, webp) and HTML structure (img, picture).
 
 Do you use Divi? Do you wish you could use the same lightbox for images that are NOT inserted using the Divi (or Visual) Builder?
 
 Then you've come to the right plugin. Simply enable this plugin and any time you link to an image in a page or post using the default WordPress post editor, the link will now open in the Divi lightbox!
 
 No need to load an entirely separate or shadowbox plugin, just use the one your Divi-enabled site is already loading for Divi Builder-controlled content.
-
->The idea for this plugin and payment for it's creation by [WordXpress - WP Maintenance & Support](https://wordx.press/).
 
 **You have to buy the Divi Theme to use this plugin:**
 
@@ -60,6 +60,13 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 3.1 =
+
+Release date: 2022-05-05
+
+- TWEAK - Code optimization.
+- OTHER - Minor changes in desccription.
 
 = 3.0 =
 
