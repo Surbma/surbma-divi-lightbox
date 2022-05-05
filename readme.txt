@@ -1,10 +1,10 @@
 === Surbma | Divi Lightbox ===
-Contributors: Surbma, CherryPickStudios, thefiddler
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: divi, lightbox, elegant themes, elegantthemes
 Requires at least: 5.1
-Tested up to: 5.8
-Stable tag: 2.1
+Tested up to: 5.9
+Stable tag: 3.0
 Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -60,6 +60,14 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 3.0 =
+
+Release date: 2022-05-05
+
+- NEW - Added webp image support.
+- NEW - Added picture tag support.
+- TWEAK - Tested with WordPress 5.9 version.
 
 = 2.0 =
 
